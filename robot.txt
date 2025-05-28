@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mprytkov6.github.io/bright-path-tutoring/sitemap.xml
